@@ -9,7 +9,7 @@ public class EvenOdd {
 		}else {
 			System.out.println("Given number is odd ");
 		}
-			
+		System.out.println("Hello");	
 
 	}
 
